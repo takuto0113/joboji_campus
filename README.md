@@ -12,3 +12,4 @@ clone,commit,pushできたことを確認
 
 ## coordinate_memory.ipynb
 4x4の配列で座標を所得するだけ
+選択した値を座標移動させたい値の上まで移動させる(途中)
