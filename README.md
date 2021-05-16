@@ -7,11 +7,16 @@ githubの設定
 clone,commit,pushできたことを確認  
 
 ## 5/12
-選択回数 : 16パズルなら2回
+選択回数 : 16パズルなら2回  
 受け取りフォーマット : 配列?
 
-## 並べ替え案1
+## 並べ替え案
+1. 
 <div align="center"><img src="image/案1.jpg" width="300"></div>
+
+2. 
+<div align="center"><img src="image/案2.jpg" width="300"></div>
+こっちの方がいい気がする
 
 ## coordinate_memory.ipynb
 4x4の配列で座標を所得するだけ  
