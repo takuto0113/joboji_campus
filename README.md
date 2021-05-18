@@ -18,6 +18,7 @@ clone,commit,pushできたことを確認
 <div align="center"><img src="image/案2.jpg" width="300"></div>
 こっちの方がいい気がする
 
-## coordinate_memory.ipynb
+## restore.ipynb
 4x4の配列で座標を所得するだけ  
-選択した値を座標移動させたい値の上まで移動させる(途中)
+選択した値を座標移動させたい値の上まで移動させる(途中)  
+選択した値(16)を上下左右に動かす関数  
