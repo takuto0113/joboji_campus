@@ -31,6 +31,9 @@ clone,commit,pushできたことを確認
 選択した値(16)を上下左右に動かす関数  
 最後の2行値を除く、動かしたい値が下端にあるとき以外の移動はできた  
 
+* 移動方法
+<div align="center"><img src="image/移動方法1.jpg" width="300"></div>
+<div align="center"><img src="image/移動方法2.jpg" width="300"></div>
 
 ### to do
 * up, down, right, leftの関数が 4x4 にしか対応してない
