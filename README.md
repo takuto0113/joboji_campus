@@ -47,6 +47,7 @@ clone,commit,pushできたことを確認
 * (パズル盤面)split_list → puzzle_board
 * (列)row → column
 * (行)columns → row
+* (交換回数)exchange_num → exchange_times
 
 
 
