@@ -35,11 +35,18 @@ clone,commit,pushできたことを確認
 <div align="center"><img src="image/移動方法1.jpg" width="300"></div>
 <div align="center"><img src="image/移動方法2.jpg" width="300"></div>
 
-## slide_puzzle.ipynb
-新しいファイルで作り直す  
-
 ### to do
 * up, down, right, leftの関数が 4x4 にしか対応してない
 * 変数名のリファクタリング
 * txtの行数、列数を反映させる
+
+## slide_puzzle.ipynb
+新しいファイルで作り直す  
+
+### 変数名変更
+* (パズル盤面)split_list → puzzle_board
+* (列)row → column
+* (行)columns → row
+
+
 
