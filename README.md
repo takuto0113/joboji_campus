@@ -48,6 +48,10 @@ clone,commit,pushできたことを確認
 * (列)row → column
 * (行)columns → row
 * (交換回数)exchange_num → exchange_times
+* (選択値)choice_num → selection_value
+* (選択値の座標)choice_pos → selection_coordinate
+* (動かしたい値)target_num → target_value
+* (動かしたい値の座標)target_pos → target_coordinate
 
 
 
