@@ -53,5 +53,5 @@ clone,commit,pushできたことを確認
 * (動かしたい値)target_num → target_value
 * (動かしたい値の座標)target_pos → target_coordinate
 
-
+* (並び替え完了な値)fixed_value
 
