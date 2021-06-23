@@ -51,6 +51,7 @@ clone,commit,pushできたことを確認
 * select_times → 選択回数
 * exchange_operation → 交換操作
 * fixed_value → 並び替え済みの値
+<br>
 
 * selection_value → 選択値
 * selection_coord → 選択値の座標
