@@ -68,5 +68,6 @@ clone,commit,pushできたことを確認
 * (選択値の座標)choice_pos → selection_coordinate
 * (動かしたい値)target_num → target_value
 * (動かしたい値の座標)target_pos → target_coordinate
+* (targetを置きたい座標)pos → coord
 
 
