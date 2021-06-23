@@ -56,7 +56,8 @@ clone,commit,pushできたことを確認
 * selection_coord → 選択値の座標
 * selection_position → 選択値の初期座標
 * target_value → 動かしたい値
-* target_cooord → 動かしたい値の座標
+* target_coord → 動かしたい値の座標
+* x, y → coord[1], coord[0]
 
 
 ### 変数名変更
