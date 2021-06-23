@@ -43,6 +43,22 @@ clone,commit,pushできたことを確認
 ## slide_puzzle.ipynb
 新しいファイルで作り直す  
 
+### 使用変数
+* puzzle_board → パズル盤面
+* column → 列
+* row → 行
+* select_cost → 選択コスト
+* select_times → 選択回数
+* exchange_operation → 交換操作
+* fixed_value → 並び替え済みの値
+
+* selection_value → 選択値
+* selection_coord → 選択値の座標
+* selection_position → 選択値の初期座標
+* target_value → 動かしたい値
+* target_cooord → 動かしたい値の座標
+
+
 ### 変数名変更
 * (パズル盤面)split_list → puzzle_board
 * (列)row → column
@@ -53,5 +69,4 @@ clone,commit,pushできたことを確認
 * (動かしたい値)target_num → target_value
 * (動かしたい値の座標)target_pos → target_coordinate
 
-* (並び替え完了な値)fixed_value
 
